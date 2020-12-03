@@ -171,6 +171,3 @@ spring.shardingsphere.sharding.tables.goods.table-strategy.inline.algorithm-expr
 spring.shardingsphere.props.sql.show=true
 
 3) 编写测试方法 ShardingjdbcdemoApplicationTests void addGoods02() (测试用例：由于我们的user_id设置为100L，为偶数，根据我们的初衷，偶数存入goods_db_1中)
-
-
-

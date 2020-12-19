@@ -1,0 +1,43 @@
+server:
+  port: 8500
+
+
+spring:
+  application:
+    name: bank1-server
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/bank1?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password:
+    driver-class-name: com.mysql.jdbc.Driver
+
+mybatis-plus:
+  #配置全局自增ID
+  global-config:
+    db-config:
+      id-type: auto
+
+
+org:
+  dromara:
+    hmily :
+      #序列化
+      serializer: kryo
+      #rpc超时时间，单位秒
+      recoverDelayTime: 30
+      #重试次数
+      retryMax: 5
+      scheduledDelay: 30
+      scheduledThreadMax:  10
+      repositorySupport: db
+      #是否是发起方
+      started: true
+      hmilyDbConfig:
+        driverClassName: com.mysql.jdbc.Driver
+        url: jdbc:mysql://127.0.0.1:3306/hmily?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
+        username: root
+        password:

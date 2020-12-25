@@ -112,6 +112,10 @@ public class NettyRpcAccessPoint implements RpcAccessPoint {
 }
 ```
 
+2020/12/25作业修订：
+
+参阅了别的同学的作业范例，发现之前的考虑的复杂了，做了重新调整，详见rpc-lesson
+
 
 
 2（必做）结合dubbo+hmily，实现一个TCC外汇交易处理，代码提交到github：用户A的美元账户和人民币账户都在A库，使用1美元兑换7人民币；用户B的美元账户和人民币账户都在B库，使用7人民币兑换1美元；设计账户表，冻结资产表，实现上述两个本地事务的分布式事务。

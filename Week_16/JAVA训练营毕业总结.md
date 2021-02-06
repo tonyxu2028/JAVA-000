@@ -1,4 +1,4 @@
-​							***\*JAVA训练营毕业总结\****
+							***\*JAVA训练营毕业总结\****
 
 ***\*毕业项目：\****
 
@@ -28,7 +28,7 @@
 
 知识图谱如下：
 
-![img](file:///C:\Users\tonyxu\AppData\Local\Temp\ksohtml20208\wps1.png) 
+![img](D:\LESSON_CODE\JAVA-000\Week_16\JVM.png) 
 
 
 
@@ -52,7 +52,7 @@ ChannelHandler。以及Netty的粘包和拆包。
 
 知识图谱如下：
 
-![img](file:///C:\Users\tonyxu\AppData\Local\Temp\ksohtml20208\wps2.png) 
+![img](D:\LESSON_CODE\JAVA-000\Week_16\NIO.png) 
 
  
 
@@ -132,7 +132,7 @@ Future/Callable,CountdownLatch,CyclicBarrier
 
 知识图谱如下：
 
-![img](file:///C:\Users\tonyxu\AppData\Local\Temp\ksohtml20208\wps3.png) 
+![img](D:\LESSON_CODE\JAVA-000\Week_16\并发.png) 
 
  
 
@@ -224,7 +224,7 @@ SpringBoot简化的手段如下：
 
 知识图谱如下：
 
-![img](file:///C:\Users\tonyxu\AppData\Local\Temp\ksohtml20208\wps4.png) 
+![img](D:\LESSON_CODE\JAVA-000\Week_16\Spring.png) 
 
 
 
@@ -300,9 +300,9 @@ InnoDB:
 
 知识图谱如下：
 
-![img](file:///C:\Users\tonyxu\AppData\Local\Temp\ksohtml20208\wps5.png) 
+![img](D:\LESSON_CODE\JAVA-000\Week_16\mysql.png) 
 
-![img](file:///C:\Users\tonyxu\AppData\Local\Temp\ksohtml20208\wps6.png) 
+![img](D:\LESSON_CODE\JAVA-000\Week_16\sql.png) 
 
 （6）分库分表
 
@@ -720,7 +720,7 @@ Ribbon是用于云环境的一个客户端内部通信（IPC）库。
 
 知识图谱如下：
 
-![img](file:///C:\Users\tonyxu\AppData\Local\Temp\ksohtml20208\wps7.png) 
+![img](D:\LESSON_CODE\JAVA-000\Week_16\dubbo.png) 
 
 
 
@@ -838,7 +838,7 @@ Redis高级功能：Redis事务，Redis管道技术，Redis数据备份与恢复
 
 知识图谱如下：
 
-![img](file:///C:\Users\tonyxu\AppData\Local\Temp\ksohtml20208\wps8.png) 
+![img](D:\LESSON_CODE\JAVA-000\Week_16\redis.png) 
 
 
 
@@ -936,7 +936,7 @@ RocketMQ与KAFKA的关系：
 
 知识图谱如下：
 
-![img](file:///C:\Users\tonyxu\AppData\Local\Temp\ksohtml20208\wps9.png) 
+![img](D:\LESSON_CODE\JAVA-000\Week_16\kafka.png) 
 
 
 
